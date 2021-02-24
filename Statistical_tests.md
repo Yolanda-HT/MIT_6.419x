@@ -23,6 +23,14 @@ Under the assumption that  𝑋1,𝑋2,…,𝑋𝑛∼𝑖.𝑖.𝑑(𝜇,�
 ## Wilcoxon singed rank test
 Assume distribution is symmetrical around the mean
 
+## Bonferroni correction
+
+## Holm-Bonferroni correction
+
+## Benjamini-Hochberg correction method
+
+
+
 
 
 
