@@ -180,7 +180,7 @@ Death rate from breast cancer in treatment group: 0.00126 ( =3931000 )
 
 Hence, we can estimate the treatment effect to of offering mammography to be the difference in death rates:  0.00203−0.00126=0.00077 , or around  0.77  deaths per 1000.
 
-## Statistical models: POisson model
+## Statistical models: Poisson model
 
 **Poisson Distribution**
 
