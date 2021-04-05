@@ -7,5 +7,7 @@ Resources:
 - [A First Course in Linear Algebra](http://linear.ups.edu/fcla/front-matter.html) <br/>
 - [Jim Hefferon - Linear Algebra](https://hefferon.net/linearalgebra/) <br/>
 - [Open intro statistics](https://www.openintro.org/book/os/) <br/>
+- [U Penn - Fundamentals of Linear Algebra and Optimization](https://www.cis.upenn.edu/~cis515/) <br/>
+- [Tutorial points - Graph Theory](https://www.tutorialspoint.com/graph_theory/index.htm) <br/>
 - [Introduction to Probability, statistics and Random Processes](https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php)
 
